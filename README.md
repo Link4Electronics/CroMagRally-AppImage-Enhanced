@@ -17,7 +17,7 @@
 
 </div>
 
-## ⚠️ Wayland is disabled by default due to issues wit SDL ⚠️
+## ⚠️ Wayland is disabled by default due to issues with SDL ⚠️
 
 ---
 
